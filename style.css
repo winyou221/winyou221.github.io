@@ -121,3 +121,11 @@ body {
         justify-content: center;
     }
 }
+.portfolio-item {
+    margin-top: 20px;
+}
+
+.portfolio-item h4 {
+    margin-bottom: 10px;
+    color: #4f46e5;
+}
